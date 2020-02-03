@@ -1,3 +1,5 @@
+![](https://user-images.githubusercontent.com/20388235/73617684-12592d80-4600-11ea-99ac-483b6c982770.jpg)
+
 ## Codigo de Conduta da Comunidade Sysadminas 
 
 A **Comunidade Sysadminas** está comprometida a ser uma comunidade livre de discriminação para todas as pessoas, independente de:
