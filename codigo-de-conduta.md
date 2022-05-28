@@ -15,7 +15,7 @@ A **Comunidade Sysadminas** está comprometida a ser uma comunidade livre de dis
 * Condição socioeconômica;
 * Escolha de tecnologias.
 
-Não será tolerado o constrangimento de participantes em eventos e canais organizados pela **Comunidade Sysadminas**, por isso, os participantes que violarem essas regras, poderão ser repreendidos ou também impedidos de participar dos eventos e dos canais da comunidade.
+Não será tolerado o constrangimento de participantes em eventos e canais organizados pela **Comunidade Sysadminas**, por isso, as pessoas que violarem essas regras, poderão ser repreendidas ou também impedidas de participar dos eventos e dos canais da comunidade. 
 
 ### Comportamentos que consideramos inaceitáveis
 
