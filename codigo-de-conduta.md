@@ -24,7 +24,7 @@ Não será tolerado o constrangimento de participantes em eventos e canais organ
 * Contato físico inapropriado; 
 * Intimidação intencional; 
 * Perseguição;
-* Interrupção intencional em palestras, oficinas, meetups e lives.
+* Interrupção intencional em palestras, oficinas, meetups e lives;
 * Comentários que sejam prejudiciais a gênero, identidade de gênero (ou expressão de gênero), orientação sexual, raça, nacionalidade, idade, aparência física, deficiência, capacidade, religião (ou falta dela), escolha de tecnologias, condição socioeconômica ou qualquer outra dimensão da diversidade.
 
 ### Como reportar um problema
