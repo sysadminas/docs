@@ -3,7 +3,8 @@
 A **Comunidade Sysadminas** está comprometida a ser uma comunidade livre de discriminação para todas as pessoas, independente de:
 
 * Gênero;
-* Identidade de gênero (ou expressão de gênero);
+* Identidade de gênero;
+* Expressão de gênero;
 * Orientação sexual;
 * Raça;
 * Nacionalidade;
