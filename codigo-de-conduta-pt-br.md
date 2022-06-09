@@ -1,4 +1,4 @@
-## Codigo de Conduta da Comunidade Sysadminas 
+## Código de Conduta da Comunidade Sysadminas 
 
 A **Comunidade Sysadminas** está comprometida a ser uma comunidade livre de discriminação para todas as pessoas, independente de:
 
