@@ -1,4 +1,9 @@
-![](https://user-images.githubusercontent.com/20388235/73617684-12592d80-4600-11ea-99ac-483b6c982770.jpg)
+## Documentos
+Nesse diretório estão concentrados os documentos da Comunidade SysAdminas, incluindo: 
+
+* [Call 4 Papers](https://github.com/sysadminas/docs/blob/master/call-for-papers.md)
+* [Código de Conduta em Língua Portuguesa](https://github.com/sysadminas/docs/blob/master/codigo-de-conduta-pt-br.md)
+* [Código de Conduta em Língua Portuguesa](https://github.com/sysadminas/docs/blob/master/codigo-de-conduta-pt-br.md)
 
 Nossos links:
 - Site: http://www.sysadminas.com.br
