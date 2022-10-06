@@ -5,8 +5,7 @@ Nesse diretório estão concentrados os documentos da Comunidade SysAdminas, inc
 * [Código de Conduta em Língua Portuguesa](https://github.com/sysadminas/docs/blob/master/codigo-de-conduta-pt-br.md)
 * [Código de Conduta em Língua Portuguesa](https://github.com/sysadminas/docs/blob/master/codigo-de-conduta-pt-br.md)
 
-Nossos links:
-- Site: http://www.sysadminas.com.br
-- Dev.to: https://dev.to/sysadminas
-- Meetup.com: https://meetup.com/sysadminas
-- Medium: https://medium.com/sysadminas
+
+## Redes Sociais
+
+<p align="left"> <a href="https://www.github.com/sysadminas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sysadminasbr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/company/sysadminas/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://medium.com/sysadminas" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://twitter.com/sysadmbr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/sysadminasbr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
