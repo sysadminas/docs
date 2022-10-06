@@ -3,7 +3,7 @@ Nesse diretório estão concentrados os documentos da Comunidade SysAdminas, inc
 
 * [Call 4 Papers](https://github.com/sysadminas/docs/blob/master/call-for-papers.md)
 * [Código de Conduta em Língua Portuguesa](https://github.com/sysadminas/docs/blob/master/codigo-de-conduta-pt-br.md)
-* [Código de Conduta em Língua Portuguesa](https://github.com/sysadminas/docs/blob/master/codigo-de-conduta-pt-br.md)
+* [Código de Conduta em Inglês](https://github.com/sysadminas/docs/blob/master/code-of-conduct-english.md)
 
 
 ## Redes Sociais
